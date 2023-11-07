@@ -1,5 +1,9 @@
 See on testfail koostöö jaoks.
 
+<<<<<<< HEAD
 Kas töötab?
 
 Tundub, et töötab
+=======
+Kas töötab? Töötab! 
+>>>>>>> aleksandra
